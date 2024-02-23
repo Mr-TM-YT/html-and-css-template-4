@@ -1,0 +1,237 @@
+bun
+bun c
+bun --version
+bun init
+bun run dev
+bun run index.ts
+ls
+nvim .
+nvim ~/.config/nvim/lua/custom/configs/lspconfig.lua
+nvim .
+ls
+cd HelloWorldFlakeHTML
+ls
+nix develop -c zsh
+ls
+nvim index.html
+ls
+nvim .
+nvim ~/.config/nvim/lua/custom/configs/lspconfig.lua
+nvim index.html
+nvim style.css
+where index.html
+pwd
+nvim index.html
+exit
+bun c help
+ls
+bun c sveltekit
+bun c svelte
+bun c react
+exit
+ls
+cd "Learn HTML+CSS"
+ls
+vim .
+nix develop -c zsh
+ls
+exit
+nix develop --impure -c zsh 
+lw
+ls
+vim .
+codium .
+exit
+exit
+nix develop --impure -c zsh 
+ls
+exit
+ls
+vim .
+nix develop --impure -c zsh
+vim .
+codium .
+exi
+exit
+exit
+nix develop --impure -c zsh
+nix develop --impure -c zsh
+codium .
+exit
+exit
+nix develop --impure -c zsh
+ls
+nix develop -c zsh
+vim .
+html-languageserver
+exit
+exit
+vim .
+exit
+exit
+nix develop -c zsh
+vim .
+prettier
+exit
+exit
+vim .
+prettier
+exit
+tmux
+ls
+live-server
+exit
+exit
+exit
+exit
+nix develop -c zsh
+vim .
+exit
+exit
+nix develop -c zsh
+vim.
+vim .
+exit
+exit
+nix develop -c zsh
+vim .
+exit
+vim .
+exit
+exit
+nix develop -c zsh
+vim .
+exit
+vim .
+live-server .
+vim .
+nix develop -c zsh
+vim .
+exit
+exit
+vim flake.nix
+nix develop -c zsh
+nvim .
+cd ../
+z learn
+nix develop -c zsh
+exit
+exit
+nix develop -c zsh
+vim .
+nix develop -c zsh
+vim .
+live-server .
+mv * HTML-Chapter
+ls
+touch index.html
+live-server .
+exit
+nvim .
+vim .
+live-server .
+exit
+exit
+vim flake.nix
+nix develop -c zsh
+vim .
+exit
+vim .
+live-server .
+exit
+exit
+cd nvim
+vim .
+nix develop -c zsh
+vim .
+live-server .
+exit
+exit
+exit
+vim .
+nix develop -c zsh
+vim .
+exit
+nix develop -c zsh
+nix devleop -c zsh
+nix develop -c zsh
+nvim .
+live-server .
+hx .
+nvim .
+hx .
+vim .
+exit
+exit
+exit
+exit
+nix develop -c zsh
+exit
+exijt
+exit
+ls
+vim .
+ls
+exit
+nix develop -c zsh
+live-server .
+nix develop -c zsh
+exit
+vim .
+live-server .
+exit
+exit
+exit
+exit
+nix develop -c zsh
+hx .
+hx --health html
+vim .
+live-server .
+cd Learning-Website
+ls
+nix develop -c zsh
+vim .
+exit
+cd ../
+ls
+cd Buisness-Template
+nix develop -c zsh
+vim .
+live-server .
+exit
+live-server .
+exit
+exit
+exit
+ls
+cd Buisness-Template
+nix develop -c zsh
+vim .
+live-server .
+exit
+nix develop -c zsh
+vim .
+live-server .
+exit
+nix develop -c zsh
+exit
+exit
+vim .
+exit
+live-server .
+exit
+exit
+exit
+nix develop -c zsh
+vim .
+live-server .
+exit
+exit
+: 1706789131:0;root-switch
+: 1706789335:0;home-switch
+: 1706793298:0;nix develop -c zsh
+: 1706794331:0;home-switch
+: 1706794799:0;codium .
+: 1706795022:0;home-switch
+: 1706795051:0;root-switch
